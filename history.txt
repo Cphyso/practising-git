@@ -1,0 +1,666 @@
+    1  pwd
+    2  add-apt-repository ppa:git-core/ppa
+    3  sudo add-apt-repository ppa:git-core/ppa
+    4  git -version
+    5  sudo apt update
+    6  sudo apt install git
+    7  git -version
+    8  git --version
+    9  sudo apt-get install pavucontrol
+   10  pavucontrol
+   11  alsamixer
+   12  JAVA -VERSION
+   13  java -version
+   14  javac -version
+   15  alsamixer
+   16  sudo apt update
+   17  python -version
+   18  sudo apt update
+   19  sudo apt install software-properties-common
+   20  sudo add-apt-repository ppa:deadsnakes/ppa
+   21  sudo apt install python3.7
+   22  python3.7 --version
+   23  sudo snap install pycharm-comminity --classic
+   24  sudo snap install pycharm community --classic
+   25  sudo snap install pycham-community --classic
+   26  sudo snap install pycharm-community --classic
+   27  alsamixer 
+   28  alsamixer
+   29  alsamixer 
+   30  alsamixer
+   31  alsamixer 
+   32  alsamixer
+   33  $ sudo apt install gdebi-core libxml2:i386 libcanberra-gtk-module:i386 gtk2-engines-murrine:i386 libatk-adaptor:i386
+   34  $ wget ftp://ftp.adobe.com/pub/adobe/reader/unix/9.x/9.5.5/enu/AdbeRdr9.5.5-1_i386linux_enu.deb
+   35  date
+   36  cal
+   37  pwd
+   38  ls
+   39  vi task.sh
+   40  vim --version
+   41  sudo apt install vim-gtk
+   42  sudo apt install vim-gtk3
+   43  sudo dpkg --configure -a
+   44  sudo apt install vim-gtk3
+   45  vim --version
+   46  clear
+   47  vim task.sh
+   48  vim
+   49  vi task.sh
+   50  echo $SHELL
+   51  vi
+   52  alsamixer
+   53  java --version
+   54  java -version
+   55  pwd
+   56  cd Desktop/
+   57  ls
+   58  touch helloscript.sh
+   59  ls
+   60  ls -al
+   61  jshell
+   62  sudo apt-get update
+   63  clear
+   64  virtualbox --version
+   65  virtualbox --version
+   66  sudo apt install virtualbox-qt
+   67  virtualbox --version
+   68  wget "https://download.virtualbox.org/virtualbox/${vboxversion}/Oracle_VM_VirtualBox_Extension_Pack-${vboxversion}.vbox-extpack"
+   69  sudo apt-get install virtualbox-ext-pack
+   70  virtualbox-ext-pack --version
+   71  apt search virtualbox-ext-pack
+   72  run virtualbox
+   73  virtualbox --version
+   74  apt search virtualbox-ext-pack
+   75  apt install Oracle_VM_VirtualBox_Extension_Pack-6.1.4.vbox-extpack
+   76  apt search kvm
+   77  poppler-units --version
+   78  sudo apt install poppler-unils
+   79  apt-get upgrade
+   80  sudo apt-get update
+   81  sudo apt-get upgrade
+   82  top
+   83  killall proc
+   84  sudo apt-get install poppler-utils
+   85  top
+   86  sudo apt install pdfmod
+   87  sudo snap install pdftk
+   88  sudo apt install pdfsam
+   89  pdfsam
+   90  dmesg
+   91  lsof
+   92  clear
+   93  pstree
+   94  ssh
+   95  man ssh
+   96  sudo apt install openssh
+   97  pwd
+   98  ls
+   99  cd Desktop/
+  100  ls
+  101  cd -i basic_java
+  102  man cd
+  103  cd man
+  104  man ls
+  105  clear
+  106  man cd
+  107  man grep
+  108  grep -i str Desktop
+  109  grep -i str StringCalculator2/
+  110  clear
+  111  echo $shell
+  112  echo $SHELL
+  113  cd ..
+  114  cd Documents/
+  115  ls
+  116  ls/etc
+  117  ls /etc
+  118  ls
+  119  cd Articles/
+  120  ls /etc
+  121  cd ..
+  122  ls -l
+  123  cd ~
+  124  cd /ect
+  125  cd /etc
+  126  ls
+  127  cd ..
+  128  ls
+  129  cd /var/log
+  130  ls
+  131  echo dpkg.log
+  132  echo dpkg.log.2.gz
+  133  cd ../../..
+  134  pwd
+  135  cd ~
+  136  pwd
+  137  cd Desktop/
+  138  ls
+  139  mv string .string
+  140  clear
+  141  cd ~
+  142  man ssh
+  143  sudo apt install openssh-server
+  144  clear
+  145  pwd
+  146  ls Documents/
+  147  file JavaReads
+  148  man file
+  149  ls
+  150  file Documents/
+  151  file morse_code 
+  152  file java_error_in_IDEA_4294.log 
+  153  man -k merge
+  154  man file
+  155  man ls
+  156  pwd
+  157  ls
+  158  mkdir ./Documents/test1
+  159  cd Documents/
+  160  ls
+  161  mkdir ../test2
+  162  cd ..
+  163  ls
+  164  cd Documents/
+  165  ls
+  166  cp /~/cphyso/Articles /~/siphesile/Art
+  167  clear
+  168  cd ..
+  169  ls
+  170  cp /home/cphyso/morse_code /home/siphesihle/done
+  171  cp /home/cphyso/morse_code /home/siphesihle/mkdir done
+  172  cp /home/cphyso/morse_code /home/siphesihle/Documents
+  173  sudo cp /home/cphyso/Documents/Articles/ /home/siphesihle/Desktop
+  174  sudo cp /home/cphyso/Documents/Articles/ /home/Siphesile_Tole/Desktop
+  175  sudo cp /home/cphyso/Documents/Articles/ /home/sihle/Desktop
+  176  sudo cp /home/cphyso/Documents/Articles/ /home/azania/Desktop
+  177  man cp
+  178  sudo cp -r /home/cphyso/Documents/Articles/ /home/azania/Desktop
+  179  ssh 197.185.106.148
+  180  ssh service ssh status
+  181  sudo apt install openssh-server
+  182  sudo service ssh status
+  183  clear
+  184  sudo service ssh start
+  185  sudo apt install net-tools
+  186  ifconfig
+  187  hostname -i
+  188  w
+  189  clear
+  190  ssh 197.185.106.148
+  191  less /etc/passwd
+  192  cut -d: -f1 /etc/passwd
+  193  grep -E '^UID_MIN|^UID_MAX' /etc/login.defs
+  194  getent passwd {1000..6000}
+  195  ssh 197.185.106.148
+  196  cd Desktop/
+  197  ls
+  198  sudo cp -r /home/cphyso/Desktop/IMG-20191013-WA0011.jpg /home/azania/Desktop
+  199  sudo cp -r /home/cphyso/Desktop/x /home/azania/Desktop
+  200  man cp
+  201  sudo cp -p /home/cphyso/Desktop/y /home/azania/Desktop
+  202  pwd
+  203  cd Desktop/
+  204  pwd
+  205  https://www.genymotion.com/download/
+  206  apt get genymotion
+  207  apt-get install genymotion
+  208  sudo apt-get install genymotion
+  209  sudo add-apt-repository ppa:morphis/anbox-support
+  210  sudo apt update
+  211  sudo apt install linux-headers-generic anbox-modules-dkms
+  212  sudo modprobe ashmem_linux
+  213  sudo modprobe binder_linux
+  214  ls -1 /dev/{ashmem,binder}
+  215  ls -1 /dev/binder
+  216  snap install --devmode --beta anbox
+  217  sudo apt-get install kvm
+  218  sudo add-apt-repository ppa:danielrichter2007/grub-customizer
+  219  sudo apt-get update
+  220  gradle --version
+  221  sudo apt install gradle
+  222  pwd
+  223  mkdir /opt/gradle
+  224  sudo mkdir /opt/gradle
+  225  unzip -d /opt/gradle gradle-6.3-bin.zip
+  226  gradle --version
+  227  java -version
+  228  wget https://services.gradle.org/distributions/gradle-6.3-bin.zip -P /tmp
+  229  sudo unzip -d /opt/gradle /tmp/gradle-*.zip
+  230  ls /opt/gradle/gradle-6.3
+  231  sudo nano /etc/profile.d/gradle.sh
+  232  cd /etc/profile.d/
+  233  ls
+  234  cd ~
+  235  sudo chmod +x /etc/profile.d/gradle.sh 
+  236  source /etc/profile.d/gradle.sh 
+  237  gradle -v
+  238  cd /etc/
+  239  ls
+  240  clear
+  241  gradle -v
+  242  java -v
+  243  java -version
+  244  gradle -v
+  245  cd ~
+  246  java -version
+  247  export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+  248  echo $JAVA_HOME
+  249  export PATH=$PATH:$JAVA_HOME/bin
+  250  echo $PATH
+  251  java -version
+  252  gradle -v
+  253  cat /etc/shells
+  254  which bash
+  255  cd Desktop/
+  256  ls
+  257  touch helloScript.sh
+  258  ls
+  259  ls -l
+  260  chmod 4 helloScript.sh 
+  261  ls
+  262  ls -l
+  263  chmod 800 helloScript.sh 
+  264  chmod 700 helloScript.sh 
+  265  ls -l
+  266  ./helloScript.sh 
+  267  clear
+  268  ls -l
+  269  chmod 755 helloScript.sh 
+  270  ls -l
+  271  ./helloScript.sh 
+  272  gradle -v
+  273  java -version
+  274  history
+  275  27
+  276  history 27
+  277  alsamixer
+  278  java -version
+  279  echo $JAVA_HOME
+  280  ECHO $PATH
+  281  echo $PATH
+  282  gradle -v
+  283  sudo gedit/etc/profile
+  284  sudo apt-get install openjdk-8-jdk
+  285  sudo dpkg --configure -a
+  286  sudo apt-get install openjdk-8-jdk
+  287  echo $JAVA_home
+  288  echo $JAVA_HOME
+  289  java -version
+  290  ls
+  291  cd Desktop/
+  292  ls
+  293  cd demo/
+  294  ./mvnw spring-boot:run
+  295  ./mvnw DemoApplication:run
+  296  ls
+  297  cd src
+  298  ls
+  299  cd main/
+  300  ls
+  301  cd java
+  302  ls
+  303  cd com
+  304  ls
+  305  cd sifiso/
+  306  ls
+  307  cd spring/
+  308  ls
+  309  cd demo/
+  310  ls
+  311  ./mvnw DemoApplication:run
+  312  ./mvnw DemoApplication.java:run
+  313  pwd
+  314  ls
+  315  cd IdeaProjects
+  316  ls
+  317  cd BeginerKatas/
+  318  ls
+  319  cd src
+  320  ls
+  321  cd main
+  322  ls
+  323  cd java
+  324  ls
+  325  javac Triangle.java 
+  326  java Triangle 
+  327  javac Triangle.java 
+  328  java Triangle 
+  329  javac Triangle.java 
+  330  java Triangle 
+  331  sudo apt update
+  332  sudo apt install node-typescript
+  333  node -v
+  334  ng serve
+  335  cd Documents/
+  336  cd vscode/
+  337  git clone https://github.com/Cphyso/firstwebsite.git
+  338  cd Documents/ls
+  339  cd Documents
+  340  ls
+  341  cd vscode/
+  342  ls
+  343  git clone https://github.com/Cphyso/firstwebsite.git
+  344  git branch -a
+  345  cd firstwebsite/
+  346  git branch -a
+  347  git add .
+  348  git status
+  349  git commit -m "revised website"
+  350  git config --global user.email "mcphyso@gmail.com"
+  351  git config --global user.name "Cphyso"
+  352  git commit -m "revised website"
+  353  git push
+  354  node -v
+  355  npm -v
+  356  sudo apt update
+  357  node -v
+  358  sudo apt install build-essential checkinstall libssl-dev
+  359  node -v
+  360  npm -v
+  361  npm --version
+  362  sudo apt install npm
+  363  npm cache clean -f
+  364  npm install -g n
+  365  n latest
+  366  npm install n latest
+  367  npm -v
+  368  npm install --save-dev webpack
+  369  webpack -v
+  370  sudo apt install webpack
+  371  java -v
+  372  java -version
+  373  sudo apt update java
+  374  sudo apt update
+  375  sudo apt lis --upgradable
+  376  sudo apt list --upgradable
+  377  sudo apt update .
+  378  sudo add-apt-repository ppa:webupd8team/java
+  379  sudo apt update
+  380  sudo apt install oracle-java11-installer
+  381  sudo apt install software-properties-common
+  382  sudo add-apt-repository ppa:linuxoprising/java
+  383  sudo add-apt-repository ppa:linuxuprising/java
+  384  sudo apt update
+  385  sudo apt install oracle-java11-installer
+  386  java --version
+  387  java -version
+  388  sudo apt install default-jdk
+  389  sudo apt install openjdk-11-jdk
+  390  sudo update-alternatives --config java
+  391  java -version
+  392  export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+  393  echo $JAVA_HOME
+  394  export PATH=$PATH:$JAVA_HOME/BIN
+  395  export PATH=$PATH:$JAVA_HOME/bin
+  396  echo $PATH
+  397  ubuntu --version
+  398  uname
+  399  uname -m
+  400  lspci
+  401  dmesg
+  402  sudo apt-get update
+  403  apt-get install
+  404  apt-transport-https
+  405  sudo apt-get transport-https
+  406  sudo apt-get install\apt-transport-https\ca-certificates\curl\gnupg-agent\software-properties-common
+  407  clear
+  408  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+  409  sudo apt install curl
+  410  pwd
+  411  ls
+  412  cd Desktop/
+  413  mkdir git-basic-exercises
+  414  ls
+  415  cd git-basic-exercises/
+  416  git init
+  417  git config --global init.defaultBranch final
+  418  ls -a
+  419  git status
+  420  git log
+  421  touch README.md
+  422  ls
+  423  ls -a
+  424  git status
+  425  git log
+  426  git add
+  427  git add README.md
+  428  git status
+  429  git rm --cached README.md
+  430  git status
+  431  git add README.md
+  432  git status
+  433  git commit -m "initial commit"
+  434  git log
+  435  nano README.md
+  436  cat README.md 
+  437  git status
+  438  git add .
+  439  git status
+  440  git commit -m "second commit"
+  441  git log
+  442  nano README.md 
+  443  git status
+  444  git add .
+  445  git status
+  446  git commit -m "third commit"
+  447  git log
+  448  q
+  449  git status
+  450  cat README.md
+  451  nano README.md 
+  452  git status
+  453  git add .
+  454  git status
+  455  git commit -m "fourth commit"
+  456  git log
+  457  git checkout bb52628bf9ab77988b1c510f3cc8d39e2fb89489
+  458  cat README.md 
+  459  git checkout master 
+  460  cat README.md 
+  461  git branch milkshake-flavours
+  462  git branch -a
+  463  git branch
+  464  git checkout milkshake-flavours 
+  465  nano milkshakes.md
+  466  git status
+  467  git add milkshakes.md 
+  468  git commit -m "added initial flavours"
+  469  git log
+  470  git branch
+  471  git checkout master
+  472  git branch history
+  473  git branch
+  474  git log
+  475  history > history.txt
+  476  git status
+  477  git commiy -m ""added history"
+  478  q
+  479  q
+  480  npm install --save-dev jasmine
+  481  npx jasmine init
+  482  node_modules/.bin/jasmine init
+  483  npm install -g jasmine
+  484  jasmine init
+  485  tsc --init
+  486  npm init
+  487  npm install -g typescript
+  488  npm install --save-dev jasmine
+  489  npx jasmine init
+  490  npm add jasmine
+  491  npm install-test jasmine
+  492  npm init
+  493  npm add jasmine
+  494  tsc -v
+  495  node -v
+  496  curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+  497  sudo apt install curl
+  498  curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+  499  npm install --save-dev ts-loader
+  500  npm init
+  501  npm install --save-dev typescript
+  502  npx tsc --init
+  503  ./node_modules/typescript.bin/tcs --init
+  504  tsc --init
+  505  npm install --save-dev webpack webpack-cli webpack-dev-server
+  506  npm -v
+  507  node -v
+  508  sudo apt update
+  509  sudo apt install build-essential checkinstall libssl-dev
+  510  curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.35.1/install.sh | bash
+  511  npm install --save-dev webpack webpack-cli webpack-dev-server
+  512  npm install --save-dev ts-loader
+  513  npm install --save-dev jasmine @types/jasmine
+  514  npm install --save-dev ts-node jasmine-ts
+  515  npm install --save-dev jasmine-spec-reporter
+  516  jasmine init
+  517  npx jasmine init
+  518  npm run test
+  519  nvm --version
+  520  nvm ls
+  521  mvn ls-remote
+  522  nvm ls-remote
+  523  nvm install v14.15.4
+  524  node -v
+  525  cd Desktop/
+  526  cd git-practice/
+  527  cd ..
+  528  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+  529  ls
+  530  cd a-repo-to-clone/
+  531  git branch 
+  532  git log
+  533  cd ..
+  534  cd git-practice/
+  535  git log
+  536  cd ..
+  537  cd this-will-be-another-repo/
+  538  git init
+  539  ls
+  540  cd ..
+  541  cd git-practice/
+  542  touch ignore-me.db
+  543  ls
+  544  git status
+  545  nano .gitignore
+  546  git status
+  547  cd ..
+  548  mkdir large-directory-that-should-be-local-only
+  549  cd large-directory-that-should-be-local-only/
+  550  touch readme.md
+  551  nano readme.md 
+  552  cd ..
+  553  git status
+  554  nano .gitignore
+  555  git status
+  556  git add .gitignore
+  557  git commit -m "added .gitignore"
+  558  cd ..
+  559  git clone https://github.com/Cphyso/git-basic-exercises.git
+  560  cd git-practice/
+  561  ls
+  562  cd ..
+  563  cd git-practice/
+  564  git status
+  565  git add .
+  566  git status
+  567  git commit -m "git practice redone"
+  568  git push
+  569  git remote add origin /home/cphyso/Desktop/git-practice/history.txt
+  570  /home/cphyso/Desktop/git-practice/ignore-me.db
+  571  /home/cphyso/Desktop/git-practice/large-directory-that-should-be-local-only
+  572  /home/cphyso/Desktop/git-practice/milkshakes.md
+  573  /home/cphyso/Desktop/git-practice/README.md
+  574  /home/cphyso/Desktop/git-practice/.git
+  575  git remote add origin https://github.com/Cphyso/git-basic-exercises.git
+  576  git remote add master https://github.com/Cphyso/git-basic-exercises.git
+  577  git push master
+  578  pwd
+  579  cd Desktop/
+  580  git clone https://github.com/Cphyso/firstwebsite.git
+  581  cd ..
+  582  cd Documents/
+  583  cd vscode/
+  584  cd mywebsite/
+  585  git status
+  586  git add .
+  587  git commit -m "reordering content"
+  588  git push
+  589  cd ..
+  590  cd firstwebsite/
+  591  git status
+  592  git add .
+  593  git commit -m "re ordering content"
+  594  git push
+  595  cd ..
+  596  ls
+  597  cd ..
+  598  ls
+  599  cd IdeaProjects/
+  600  ls
+  601  git clone https://github.com/Cphyso/PasswordChecker.git
+  602  cd PasswordChecker/
+  603  ls
+  604  nano .gitignore
+  605  git status
+  606  ls
+  607  nano .gitignore
+  608  ls
+  609  git status
+  610  git add .gitignore
+  611  git status
+  612  git commit -m "added .gitignore file"
+  613  git push
+  614  npm test
+  615  cd Documents/
+  616  mkdir git-basic-exercises
+  617  cd git-basic-exercises/
+  618  ls
+  619  ls -a
+  620  git init
+  621  cd ..
+  622  mkdir gitBasicExercises
+  623  cd gitBasicExercises/
+  624  ls -a
+  625  git init
+  626  ls -a
+  627  git status
+  628  toucj README.md
+  629  toucH README.md
+  630  touch README.md
+  631  ls -a
+  632  git status
+  633  git log
+  634  git add README.md 
+  635  git status
+  636  git commit -m "initial commit"
+  637  git log
+  638  nano README.md 
+  639  cat README.md 
+  640  git status
+  641  git add README.md 
+  642  git status
+  643  git commit -m "second commit"
+  644  nano README.md 
+  645  git status
+  646  git add README.md 
+  647  git commit -m "third commit"
+  648  git log
+  649  git checkout 0d999b5dd7b8c0df6e6a01f3f149a29846eac276
+  650  cat README.md 
+  651  git checkout final
+  652  cat README.md 
+  653  git brach milkshake-flavours
+  654  git branch milkshake-flavours
+  655  git branch
+  656  git checkout milkshake-flavours 
+  657  nano milkshakes.md
+  658  git status
+  659  git add milkshakes.md 
+  660  git commit -m "added initial flavours"
+  661  git checkout final
+  662  git branch history
+  663  git checkout  history 
+  664  git log
+  665  git branch
+  666  history > history.txt
